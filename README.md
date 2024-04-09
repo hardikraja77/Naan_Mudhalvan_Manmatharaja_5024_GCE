@@ -1,7 +1,7 @@
 
 Naan Mudhalvan project
 
-Name : Manmatha Raja M
+Name : Manmatharaja M
 Reg no. :731121205024
 college : Government College of Engineering,Erode.
 
